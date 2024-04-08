@@ -50,7 +50,9 @@ const page = async () => {
 };
 ```
 
-4. Add nextjs.yml file from
+4. Activate github actions in your repository
+
+5. Add nextjs.yml file from
    https://github.com/gregrickaby/nextjs-github-pages/blob/main/.github/workflows/deploy.yml
 
-5. Activate github actions in your repository
+6. Make commit and push to your repository
